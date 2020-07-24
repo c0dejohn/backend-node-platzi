@@ -32,7 +32,7 @@ Content-Length:1221
 ## Puntos claves
 
 #### Métodos
-que quieres hacer
+qué quieres hacer
 
 GET
 recoger informacion del servidor
@@ -281,7 +281,7 @@ al dividir nuestro servidor de esta manera lo hacemos más escalable
 
 
 
-### definiendo la logica de negocio
- que es lo que va suceder dentro de nuestros arcchivos
+### definiendo la lógica de negocio
+ qué es lo que va suceder dentro de nuestros archivos
     
 
